@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1070386581830",
+    "firebase_url": "https://farmjournal-fc258.firebaseio.com",
+    "project_id": "farmjournal-fc258",
+    "storage_bucket": "farmjournal-fc258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070386581830:android:d226728c074db70f",
+        "android_client_info": {
+          "package_name": "com.example.user.pensionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070386581830-c74u2bprduec7j9rriv8v2cm2fem07j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.pensionapp",
+            "certificate_hash": "d74e9256ae7850492c80e293ea36fc430a233e0a"
+          }
+        },
+        {
+          "client_id": "1070386581830-drapkjn9h9u52qoh69c584gpop54sam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4q3nB3VncR5q5EAfIAQD0UoyS6NVaUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070386581830-drapkjn9h9u52qoh69c584gpop54sam4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
